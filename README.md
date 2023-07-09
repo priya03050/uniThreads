@@ -2,8 +2,6 @@
 
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -76,8 +74,6 @@ Projfrontend .env ->
 <p align="center">Thank You!</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]:https://img.shields.io/github/contributors/JainendraDwivedi/unithreads?style=for-the-badge&logo=appveyor
-[contributors-url]: https://github.com/JainendraDwivedi/unithreads/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/JainendraDwivedi/unithreads?style=for-the-badge
 [forks-url]: https://github.com/JainendraDwivedi/unithreads/network/members
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
